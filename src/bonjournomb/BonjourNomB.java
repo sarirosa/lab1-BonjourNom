@@ -22,6 +22,8 @@ public class BonjourNomB {
         System.out.printf("Bonjour %s %s! Vous avez %d ans.\n", 
                 p.getFirstName(), p.getLastName(), p.getAge());
         
+        System.out.println("Bonjour!");
+        
     }
     
 }
